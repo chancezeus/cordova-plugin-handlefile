@@ -1,0 +1,25 @@
+{
+	"name": "OpenIn",
+	"version": "0.0.1",
+	"description": "",
+	"cordova": {
+		"id": "cordova-plugin-HandleFile",
+		"platforms": [
+			"ios"
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/interbrug/cordova-plugin-HandleFile.git"
+	},
+	"keywords": [
+		"ecosystem:cordova",
+		"cordova-ios"
+	],
+	"author": "InterBrug",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/interbrug/cordova-plugin-HandleFile/issues"
+	},
+	"homepage": "https://github.com/interbrug/cordova-plugin-HandleFile#readme"
+}
