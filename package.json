@@ -3,14 +3,14 @@
 	"version": "0.0.1",
 	"description": "",
 	"cordova": {
-		"id": "cordova-plugin-HandleFile",
+		"id": "cordova-plugin-handlefile",
 		"platforms": [
 			"ios"
 		]
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/interbrug/cordova-plugin-HandleFile.git"
+		"url": "git+https://github.com/interbrug/cordova-plugin-handlefile.git"
 	},
 	"keywords": [
 		"ecosystem:cordova",
@@ -19,7 +19,7 @@
 	"author": "InterBrug",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/interbrug/cordova-plugin-HandleFile/issues"
+		"url": "https://github.com/interbrug/cordova-plugin-handlefile/issues"
 	},
-	"homepage": "https://github.com/interbrug/cordova-plugin-HandleFile#readme"
+	"homepage": "https://github.com/interbrug/cordova-plugin-handlefile#readme"
 }
