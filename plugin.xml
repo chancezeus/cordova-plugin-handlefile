@@ -8,7 +8,7 @@
     <platform name="ios">
         <config-file parent="/*" target="config.xml">
             <feature name="HandleFile">
-                <param name="ios-package" value="OpenIn" onload="true"/>
+                <param name="ios-package" value="HandleFile" onload="true"/>
             </feature>
         </config-file>
         <header-file src="src/ios/HandleFile.h"/>
