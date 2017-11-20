@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 #import <Cordova/CDV.h>
 
-@interface OpenIn : CDVPlugin
+@interface HandleFile : CDVPlugin
 
 @property (nonatomic, strong) NSURL* launchedURL;
 @property (strong) NSString* callbackId;
