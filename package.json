@@ -1,5 +1,5 @@
 {
-	"name": "HandleFile",
+	"name": "cordova-plugin-handlefile",
 	"version": "0.0.1",
 	"description": "",
 	"cordova": {
